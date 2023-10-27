@@ -787,7 +787,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 2
   downAndUpEdge: 10
-  chanceToChangeDirections: 0.001
+  chanceToChangeDirections: 0.002
 --- !u!1 &1572004184
 GameObject:
   m_ObjectHideFlags: 0
